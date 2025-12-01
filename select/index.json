@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "旬",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T14:17:21.257070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旬",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_旬_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "旬",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/02_旬_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "旬",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_旬_椎名林檎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旬",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_旬_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "旬感少女",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_旬感少女_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "旬",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_旬_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "旬感☆ゴトーチ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_旬感☆ゴトーチ_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "旬",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_旬_椎名_林檎.txt"
+    }
+  ]
+}
